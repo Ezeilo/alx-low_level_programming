@@ -1,11 +1,10 @@
 #include <unistd.h>
-
 /**
-*_putchar- writes the character c to stdout.
+*_putchar: writea the character to stdout
 *
-*C: the character to print.
+*c: the character to print
 *
-*Retun: On success 1. On error -1 is returned and error is set appropriately.
+* Return: On sucess 1. On error -1
 */
 
 int _putchar(char c)
