@@ -1,11 +1,11 @@
-#include "main h"
+#include "main.h"
 
 /**
- *largest_number - returns the largets of three numbers.
+ *largest_number - returns the largest of three numbers.
  *@a: first integer
  *@b: second integer
- *@c: thurd integer
- *
+ *@c: third integer
+ *7
  *Return: largest number
  */
 
