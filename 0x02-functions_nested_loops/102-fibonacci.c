@@ -15,8 +15,8 @@ int main(void)
 	{
 		if (j != 20365011074)
 		{
-			printf("%lD, "j);
-		}
+			printf("%ld, "j);
+		}77
 		else
 		{
 			printf("%ld\n", j);
