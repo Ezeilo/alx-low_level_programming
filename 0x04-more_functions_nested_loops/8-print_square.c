@@ -18,11 +18,10 @@ void print_square(int size)
 			putchar('0');
 		}
 		putchar('0');
-		outchar('\n');
+		putchar('\n');
+	}
+	else
+	{
+		putchar('\n');
 	}
 }
-else
-{
-putchar('\n');
-}
-
